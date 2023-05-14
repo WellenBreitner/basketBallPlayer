@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".AccountActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/wellen" />
+
+    <TextView
+        android:id="@+id/dicoding_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="@string/dicoding_name"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/dicoding_account"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dicoding_name"
+        android:gravity="center"
+        android:text="@string/dicoding_account"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"/>
+    </RelativeLayout>
+</ScrollView>

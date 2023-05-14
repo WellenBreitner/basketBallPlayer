@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Best Basketball Player</string>
+    <string name="name">Name</string>
+    <string name="details">Details</string>
+    <string name="share">Share</string>
+    <string name="favorite">favorite</string>
+    <string name="account">account</string>
+    <string name="favorite_text">Favorite</string>
+    <string name="dicoding_account">Wellenhan45@gmail.com</string>
+    <string name="dicoding_name">Wellen Breitner</string>
+    <string name="like">like</string>
+</resources>

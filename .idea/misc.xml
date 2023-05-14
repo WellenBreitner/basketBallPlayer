@@ -1,0 +1,31 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.156" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.168" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/ic_launcher_background.xml" value="0.168" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/drawable/selector.xml" value="0.168" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/activity_account.xml" value="0.3625" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/activity_detail.xml" value="0.3484375" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/activity_details.xml" value="0.33" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/listitem.xml" value="0.33" />
+        <entry key="..\:/SubmissionAplikasiAndroidSederhana/app/src/main/res/menu/menu.xml" value="0.3625" />
+        <entry key="..\:/dicoding android pemulaa/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/activity_details.xml" value="0.358695652173913" />
+        <entry key="..\:/dicoding android pemulaa/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/dicoding android pemulaa/SubmissionAplikasiAndroidSederhana/app/src/main/res/layout/listitem.xml" value="0.3625" />
+        <entry key="..\:/dicoding android pemulaa/SubmissionAplikasiAndroidSederhana/app/src/main/res/menu/menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
